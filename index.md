@@ -16,9 +16,9 @@ I'm a software engineer.
 ### Programming languages
 
 - Java
-  ![Java logo](https://github.com/rafaelzaaz/pol123/blob/main/flow1.jpg)
+  <img src="flow1.jpg" width="725" height="725" />
 - Python
-  ![Python logo](https://github.com/rafaelzaaz/pol123/blob/main/flow2.jpg)
+  <img src="flow2.jpg" width="725" height="725" />
 - C++
   ![C++ logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png)
 
