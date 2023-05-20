@@ -9,49 +9,47 @@
 
 ## About Me
 
-I'm a software engineer.
+<p>I'm a software engineer.</p>
 
 ## Skills
 
 ### Programming languages
 
 - Java
-  <img src="flow1.jpg" width="725" height="725" />
+  <img src="flow1.jpg" width="725" height="725" alt="Java logo" />
 - Python
-  <img src="flow2.jpg" width="725" height="725" />
+  <img src="flow2.jpg" width="725" height="725" alt="Python logo" />
 - C++
-  ![C++ logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++ logo" />
 
 ### Web development
 
 - HTML
-  ![HTML logo](https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png)
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML logo" />
 - CSS
-  ![CSS logo](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png)
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="CSS logo" />
 - JavaScript
-  ![JavaScript logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" alt="JavaScript logo" />
 
 ### Databases
 
 - MySQL
-  ![MySQL logo](https://github.com/rafaelzaaz/pol123/blob/main/flow3.jpg)
+  <img src="https://github.com/rafaelzaaz/pol123/blob/main/flow3.jpg" alt="MySQL logo" />
 - MongoDB
-  ![MongoDB logo](https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png)
+  <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB logo" />
 
 ## Projects
 
 ### Project 1
 
-This is a description of project 1.
-
-![Project 1 image](https://via.placeholder.com/150)
+<p>This is a description of project 1.</p>
+<img src="https://via.placeholder.com/150" alt="Project 1 image" />
 
 ### Project 2
 
-This is a description of project 2.
-
-![Project 2 image](https://github.com/rafaelzaaz/pol123/blob/main/flow4.jpg)
+<p>This is a description of project 2.</p>
+<img src="https://github.com/rafaelzaaz/pol123/blob/main/flow4.jpg" alt="Project 2 image" />
 
 ## Contact Me
 
-You can contact me at [my email](mailto:myemail@example.com).
+<p>You can contact me at <a href="mailto:myemail@example.com">my email</a>.</p>
